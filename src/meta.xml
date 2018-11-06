@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
   <id>advisor-integration-example</id>
-  <name>Module advisor-integration-example</name>
-  <description>Add module description here...</description>
-  <version>1.0</version>
-  <release>1</release>
-  <vendor>Parallels</vendor>
-  <url>http://your-company-web-site</url>
+  <name>Advisor Integration Example</name>
+  <description>This extension demonstrate abilities how Advisor could be extended by recommendations provided by another Plesk extensions.</description>
+  <version>1.0.0</version>
+  <release>2</release>
+  <vendor>Plesk</vendor>
+  <url>https://plesk.com</url>
   <plesk_min_version>17.8.11</plesk_min_version>
 </module>

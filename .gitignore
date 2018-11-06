@@ -1,0 +1,5 @@
+/node_modules
+/src/htdocs/index.php
+/src/htdocs/dist
+/src/plib/vendor
+/.idea

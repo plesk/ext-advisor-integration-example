@@ -1,0 +1,17 @@
+{
+  "name": "plesk/ext-advisor-integration-example",
+  "description": "Example how to provide recommendations from Plesk extension into Advisor.",
+  "type": "library",
+  "version": "1.0.0",
+  "config": {
+    "vendor-dir": "src/plib/vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "PleskExt\\AdvisorIntegrationExample\\": [
+        "modules/advisor-integration-example/library/",
+        "src/plib/library/"
+      ]
+    }
+  }
+}
