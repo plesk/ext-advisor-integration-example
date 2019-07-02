@@ -3,8 +3,8 @@
   <id>advisor-integration-example</id>
   <name>Advisor Integration Example</name>
   <description>This extension demonstrate abilities how Advisor could be extended by recommendations provided by another Plesk extensions.</description>
-  <version>1.0.0</version>
-  <release>2</release>
+  <version>1.0.1</version>
+  <release>3</release>
   <vendor>Plesk</vendor>
   <url>https://plesk.com</url>
   <plesk_min_version>17.8.11</plesk_min_version>
